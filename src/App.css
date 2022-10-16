@@ -1,5 +1,8 @@
 .App {
-  text-align: center;
+  text-align: left;
+  margin: 5px;
+  padding: 3px;
+  line-height: 1.1em;
 }
 
 .App-logo {
@@ -35,4 +38,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+.form{
+  display: block;
+  /* flex-direction: column; */
+}
+.intro-box{
+  background-color: lightslategrey;
+  border: 1px solid black;
+  padding: 2px;
+  margin: 2px;
 }
