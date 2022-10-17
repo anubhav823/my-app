@@ -1,0 +1,11 @@
+form{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    margin:0.5em;
+}

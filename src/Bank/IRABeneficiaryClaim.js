@@ -65,7 +65,7 @@ function IRABeneficiaryClaim(props) {
                     <li>Seed the RMD via electronic funds transfer (ACH) to the bank account indicated on the attached pre-printed, voided check</li>
                     <li>The RMD has been satisfied</li>
                 </ul>
-                <li>distribution Options from your new IRA</li>
+                <li>Distribution Options from your new IRA</li>
                 Frequency
                 <ul>
                     <li>Monthly</li>
